@@ -3,7 +3,6 @@
 Welcome to your organized CovFlow workspace. 
 
 ## Folder Structure
-- **`/home/konstantinos/Documents/CovFlow/`**: Main workspace.
 - **`BIN/`**: Core automated scripts.
 - **`ANALYSIS/`**: Universal tools for docking result analysis.
 - **`1XKK.pdb`**: Your example protein.
