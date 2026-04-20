@@ -31,6 +31,8 @@ covflow_kin --csv your_data.csv --pdb your_protein.pdb
 
 ## 2. Docking Site & Complex Proteins
 CovFlow Ultra includes an automated **Sanitization Phase** to handle complex PDB files.
+!! the XXX.pdb (your protein's pdb file) and the list of your ligands smiles-ligands.csv (smiles, name) should be in the DATA folder !!
+
 
 ### HET Groups & Native Ligands
 - **Automatic Removal**: The pipeline automatically detects and removes all non-standard HET groups and cofactors from the PDB to prevent clashes.
